@@ -1,29 +1,50 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+3D Free Kick Simulator
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+A 3D Free Kick simulator built with C++ and the Raylib library. This project uses dynamic memory management and vector math to simulate realistic ball trajectories and spin.
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
-
-# Video Tutorial
+This project was developed as an independent project to demonstrate skills in C++ and real-time physics simulation.
+Preview
 
 <p align="center">
-  <img src="preview.jpg" alt="" width="800">
+<img src=Freekick.gif" alt="Gameplay GIF" width="800">
 </p>
+Downloads
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+You can download a ready-to-play version for Windows from the official releases page. No installation or compilation needed!
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+➡️ Download the latest release here
+
+(Remember to replace the link above with your actual GitHub repository link after you create the release!)
+Features
+
+    Realistic Physics: Simulates hundreds of trajectories per second, incorporating gravity, air resistance (drag), and the Magnus effect for accurate ball spin.
+
+    Interactive Controls: Allows the user to adjust kick strength, angle, and spin in real-time.
+
+    Responsive Visuals: Integrated with Raylib to provide smooth visual feedback at 60+ FPS.
+
+    Collision Dynamics: Includes basic collision detection for the ground (with bounce physics) and the goal.
+
+How to Compile (for Developers)
+
+This project is based on a Visual Studio Code template for Raylib.
+
+    Ensure you have followed the setup instructions for the Raylib VS Code template (i.e., Raylib is located at C:/raylib/).
+
+    Open the project folder in Visual Studio Code.
+
+    Open the main.cpp file.
+
+    Press F5 to compile and run the project.
+
+Controls
+
+    Power: UP / DOWN arrow keys
+
+    Angle: W / S keys
+
+    Spin: LEFT / RIGHT arrow keys
+
+    Kick: SPACEBAR
+
+    Reset: ENTER
