@@ -7,7 +7,7 @@ This project was developed as an independent project to demonstrate skills in C+
 ## Preview
 
 <p align="center">
-  <img src="preview.png" alt="Gameplay GIF" width="800">
+  <img src="preview.png" alt="Gameplay pic" width="800">
 </p>
 
 ## Downloads
@@ -16,7 +16,10 @@ You can download a ready-to-play version for Windows from the official releases 
 
 **[➡️ Download the latest release here](https://github.com/Jinmamak/3D-Free-Kick-Simulator/releases)**
 
-_(Remember to replace the link above with your actual GitHub repository link after you create the release!)_
+Note for Windows Users:
+When you run the .exe, Windows SmartScreen might pop up a blue window saying it "prevented an unrecognized app from starting." This is normal for software from independent developers.
+
+To run the game, simply click "More info" and then click the "Run anyway" button.
 
 ## Features
 
