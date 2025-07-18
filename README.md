@@ -7,14 +7,14 @@ This project was developed as an independent project to demonstrate skills in C+
 ## Preview
 
 <p align="center">
-  <img src="Freekick.gif" alt="Gameplay GIF" width="800">
+  <img src="preview.png" alt="Gameplay GIF" width="800">
 </p>
 
 ## Downloads
 
 You can download a ready-to-play version for Windows from the official releases page. No installation or compilation needed!
 
-**[➡️ Download the latest release here](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases)**
+**[➡️ Download the latest release here](https://github.com/Jinmamak/3D-Free-Kick-Simulator/releases)**
 
 _(Remember to replace the link above with your actual GitHub repository link after you create the release!)_
 
